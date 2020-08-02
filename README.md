@@ -4,5 +4,5 @@
 ## Allows you to calculate BMI index og your body from weight and height input.
 
 ## Visuals:
-![]( /public/assests/main.png)
-![]( /public/assests/result.png)
+![]( /public/assets/images/main.png)
+![]( /public/assets/images/result.png)
